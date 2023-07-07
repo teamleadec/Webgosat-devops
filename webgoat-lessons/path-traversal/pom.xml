@@ -4,7 +4,7 @@
     <artifactId>path-traversal</artifactId>
     <packaging>jar</packaging>
     <parent>
-        <groupId>org.owasp.webgoat.lesson</groupId>
+        <groupId>org.owasp.webgoat.lesson.first</groupId>
         <artifactId>webgoat-lessons-parent</artifactId>
         <version>8.2.3-SNAPSHOT</version>
     </parent>
